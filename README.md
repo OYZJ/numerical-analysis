@@ -1,1 +1,1 @@
-# numerical-analysis several numerical analysis method writen in python.
+# several numerical analysis method writen in python.
